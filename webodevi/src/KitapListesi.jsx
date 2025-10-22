@@ -1,5 +1,5 @@
 // Kitap listesi
-import KitapBilgi from "./kitapbilgi";
+import KitapBilgi from "./KitapBilgi";
 function KitapListesi(props) {
   return (
     <div>
