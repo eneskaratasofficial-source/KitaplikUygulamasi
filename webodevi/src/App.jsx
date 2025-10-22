@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Arama from "./Arama";
-import FavoriEkle from "./favoriEkle";
-import KitapBilgi from "./kitapbilgi";
-import KitapListesi from "./kitapListesi";
-import Kategoriler from "./kategoriler";
+import FavoriEkle from "./FavoriEkle";
+import KitapBilgi from "./KitapBilgi";
+import KitapListesi from "./KitapListesi";
+import Kategoriler from "./Kategoriler";
 
 function App() {
   var kitaplar = [
